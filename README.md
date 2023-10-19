@@ -4,7 +4,7 @@
 
 
 ### Рад приветствовать!
-Занимаюсь бэкекенд разработкой с 2021.  
+Занимаюсь бэкенд разработкой с 2021.  
   
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Sineie-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Sineie) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sudodebug@gmail.com)
 
